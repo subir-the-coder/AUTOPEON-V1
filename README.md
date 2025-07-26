@@ -38,17 +38,6 @@ For Shodan API: shodan init <your_api_key>
 **Usage**: python3 recon-v1.py -u example.com
 **Usage 2**: (if you have nuclei DAST templates) python3 autorecon.py -u example.com -t ~/nuclei-templates/
 
-**Folder Structure **
-example.com-recon/
-├── subdomains.txt
-├── httpx.txt
-├── nuclei-output.txt
-├── wayback.txt
-├── dast-result.txt
-├── shodan.txt
-├── ip-nuclei.txt
-├── google-dorks.txt
-└── github-dorks.txt
 
 #Credits
 Thanks Riya Nair – Original bash workflow inspiration
