@@ -1,11 +1,11 @@
 # AUTOPEON-V1
 
-# AutoRecon v1.0
+# AutoPeonv1.0
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4690e751-1831-4a8f-8960-62f12a9bff79" />
 
 
-**AutoRecon** is a comprehensive Python-based reconnaissance automation toolkit for bug bounty hunters and penetration testers. It streamlines subdomain discovery, vulnerability scanning, historical URL gathering, OSINT dork generation, and integrations with platforms like Shodan, ZoomEye, Hunter.io, and PublicWWW.
+**AutoPeon** is a comprehensive Python-based reconnaissance automation toolkit for bug bounty hunters and penetration testers. It streamlines subdomain discovery, vulnerability scanning, historical URL gathering, OSINT dork generation, and integrations with platforms like Shodan, ZoomEye, Hunter.io, and PublicWWW.
 
 > Coded by: **Subir Sutradhar**  
 > Inspired by original bash workflow from: **Riya Nair**
