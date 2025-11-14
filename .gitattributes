@@ -1,0 +1,24 @@
+﻿# Hide C, C++, Go, Rust and unwanted generated code from GitHub stats
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.cpp linguist-detectable=false
+*.hpp linguist-detectable=false
+*.go linguist-detectable=false
+*.rs linguist-detectable=false
+
+# Hide vendor and dependency folders
+vendor/* linguist-vendored
+venv/* linguist-vendored
+env/* linguist-vendored
+node_modules/* linguist-vendored
+site-packages/* linguist-vendored
+build/* linguist-vendored
+dist/* linguist-vendored
+out/* linguist-vendored
+
+# Hide auto-generated HTML/JS bundles
+*.min.js linguist-vendored
+*.min.css linguist-vendored
+
+# Treat Markdown as documentation
+*.md linguist-documentation
